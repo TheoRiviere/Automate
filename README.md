@@ -1,2 +1,0 @@
-# Automate
-Automatisation tool chain
